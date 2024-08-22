@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+    font-family:sans-serif;
+}
+
+h1, h2, h3{
+    color:brown;
+}
+
+p{
+    color:black;
+
+}
+
+ul{
+    color:black;
+}
+
+.Biografia{
+    text-align: center;
+    width: 800px;
+}
